@@ -1,0 +1,11 @@
+{
+  "name": "@iotz/driver-core",
+  "version": "1.0.0",
+  "author": "Renan Vaz <renan.c.vaz@gmail.com>",
+  "license": "ISC",
+  "main": "driver-core.js",
+  "dependencies": {
+    "@iotz/util-observable": "^1.0.0"
+  },
+  "devDependencies": {}
+}
