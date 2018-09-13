@@ -187,4 +187,4 @@ module.exports.EXTERNAL      = EXTERNAL;
 module.exports.INTERNAL      = INTERNAL;
 module.exports.MSBFIRST      = MSBFIRST;
 module.exports.LSBFIRST      = LSBFIRST;
-module.exports.DriverDefault = DriverDefault;
+module.exports.Driver        = DriverArduino;

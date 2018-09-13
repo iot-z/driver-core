@@ -7,5 +7,13 @@
   "dependencies": {
     "@iotz/util-observable": "^1.0.0"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iot-z/driver-core.git"
+  },
+  "bugs": {
+    "url": "https://github.com/iot-z/driver-core/issues"
+  },
+  "homepage": "https://github.com/iot-z/driver-core#readme"
 }
